@@ -1,4 +1,4 @@
-# clustering-of-customer
+# Retail Customer Segmentation using KMeans Clustering
 # Task 2 : Create a kmeans algorithm to group customers of a retail store based on their purchase history.
 
 #impoting Libraries
